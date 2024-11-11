@@ -5,8 +5,6 @@
 - 📫 How to reach me:
    * You can contact me on Linkedin: https://www.linkedin.com/in/stefan-anca-660712208/
    * Or you can also contact me by mail: stefananca.st@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 StefanAnca98/StefanAnca98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
